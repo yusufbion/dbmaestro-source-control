@@ -1,0 +1,31 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "24141ca6-f292-4745-9ea3-7db335bdc975",
+        "ProjectName": "tksbnk-oracle-sb",
+        "DBTypeName": "Oracle",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "yusufbion",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null
+    }
+  ],
+  "GlobalConfigurations": null
+}
